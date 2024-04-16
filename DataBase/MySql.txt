@@ -1,0 +1,2 @@
+create database ONE1;
+use database ONE!;
